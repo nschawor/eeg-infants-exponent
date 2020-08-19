@@ -3,7 +3,7 @@
 This repository provides analysis code to analyze longitudinal changes in aperiodic activity in infant EEG data. The repository code recreates results and figures from the following manuscript:
 
 # Reference
-Schaworonkow N & Voytek B: Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life. _bioRxiv_ (2020).
+Schaworonkow N & Voytek B: [Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life.](https://www.biorxiv.org/content/10.1101/2020.08.18.256016v1) _bioRxiv_ (2020). doi:10.1101/2020.08.18.256016 
 
 # Dataset
 The results are based on following available openly available data set: [infant EEG dataset](https://figshare.com/articles/infant_EEG_data/5598814) and the corresponding [data sheet](https://figshare.com/articles/Relative_Power_EEG_and_Bayley_Scales_Infant_data/6994946).
